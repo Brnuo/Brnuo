@@ -21,9 +21,9 @@ I am a developer and I am passionate about working with development technologies
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/brnu0?tab=repositories&q=&type=&language=java)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![PostgeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Android](https://img.shields.io/badge/Android-000?00&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?0&logo=kotlin&logoColor=white)
+![PostgeSQL](https://img.shields.io/badge/PostgreSQL-000?0&logo=postgresql&logoColor=white)
 
 
 ### Technologies
