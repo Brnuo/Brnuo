@@ -15,12 +15,12 @@ I am a developer and I am passionate about working with development technologies
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=ddc508)]
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C#](https://img.shields.io/badge/-c%23%20-000?&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Android](https://img.shields.io/badge/Android-000?00&logo=android)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000?0&logo=kotlin)
 ![PostgeSQL](https://img.shields.io/badge/PostgreSQL-000?0&logo=postgresql)
