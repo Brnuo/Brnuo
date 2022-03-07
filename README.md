@@ -1,15 +1,16 @@
-### I'm Bruno Carvalho (brnu0)
+### I'm Bruno Carvalho
 [![](https://vistr.dev/badge?repo=brnu0&corners=square)](https://github.com/brnuo/vistr.dev)
 [![](https://img.shields.io/badge/-@brnu0-%23181717?style=flat-square&logo=github)](https://github.com/brnuo)
 
 - 🔭 I’m currently working on an e-commerce website using React JS, Redux, GraphQL and Firebase.
 
 ### About me
-I am a computer engineering student and I am passionate about working with development technologies.
+I am a developer and I am passionate about working with development technologies.
 * AI
 * Machine Learning
 * Data Science
 * Frontend and Backend Web Development
+* Ethical Hacking
 
 ### Languages
 
@@ -21,6 +22,8 @@ I am a computer engineering student and I am passionate about working with devel
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+![PostgeSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### Technologies
