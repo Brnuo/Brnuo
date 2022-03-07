@@ -1,8 +1,8 @@
 ### I'm Bruno Carvalho
 [![](https://vistr.dev/badge?repo=brnu0&corners=square)](https://github.com/brnuo/vistr.dev)
 [![](https://img.shields.io/badge/-@brnu0-%23181717?style=flat-square&logo=github)](https://github.com/brnuo)
-
-- 🔭 I’m currently working on an e-commerce website using React JS, Redux, GraphQL and Firebase.
+<!--
+- 🔭 I’m currently working on an e-commerce website using React JS, Redux, GraphQL and Firebase. -->
 
 ### About me
 I am a developer and I am passionate about working with development technologies.
@@ -43,7 +43,7 @@ I am a developer and I am passionate about working with development technologies
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
-<img height="110px" src="https://github-readme-stats.vercel.app/api?username=brnu0&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /><img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnu0&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula" /></a>
+<img height="110px" src="https://github-readme-stats.vercel.app/api?username=brnuo&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dracula" /><img height="110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brnuo&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=dracula" /></a>
 
 <!--
 **brnu0/brnu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
