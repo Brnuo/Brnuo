@@ -23,7 +23,7 @@ I am a developer and I am passionate about working with development technologies
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![Android](https://img.shields.io/badge/Android-000?00&logo=android)
 ![Kotlin](https://img.shields.io/badge/Kotlin-000?0&logo=kotlin)
-![PostgeSQL](https://img.shields.io/badge/PostgreSQL-000?0&logo=postgresql)
+
 
 
 ### Technologies
@@ -39,6 +39,7 @@ I am a developer and I am passionate about working with development technologies
 ![JQuery](https://img.shields.io/badge/-JQuery-000?&logo=JQuery)
 ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase&logoColor=4479A1)
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000?&logo=Cisco)
+![PostgeSQL](https://img.shields.io/badge/PostgreSQL-000?0&logo=postgresql)
 
 ### 𝗦𝘁𝗮𝘁𝘀
 
